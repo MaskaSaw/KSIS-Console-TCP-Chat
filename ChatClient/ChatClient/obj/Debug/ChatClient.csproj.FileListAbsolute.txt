@@ -1,0 +1,25 @@
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+H:\1\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+H:\1\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+H:\1\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+H:\1\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+H:\1\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+H:\1\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+H:\1\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+G:\1\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+G:\1\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+G:\1\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\Console Chat\ChatServer\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\Console Chat\ChatServer\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС\Console Chat\ChatServer\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

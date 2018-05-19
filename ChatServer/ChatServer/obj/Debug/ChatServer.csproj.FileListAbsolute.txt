@@ -1,0 +1,47 @@
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\vladm\Desktop\Console Chat\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\vladm\Desktop\Console Chat\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\vladm\Desktop\Console Chat\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\vladm\Desktop\Console Chat\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\vladm\Desktop\Console Chat\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\vladm\Desktop\Console Chat\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Aspirin\Desktop\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Aspirin\Desktop\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Aspirin\Desktop\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Aspirin\Desktop\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Aspirin\Desktop\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Aspirin\Desktop\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Aspirin\Desktop\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+G:\1\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+G:\1\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+G:\1\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+G:\1\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+G:\1\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+G:\1\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Коды ахахах коды коды наканецта!!\Второй курс\Второй семестр\КСиС лабы\Console Chat\ChatServer\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+H:\1\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+H:\1\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+H:\1\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+H:\1\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+H:\1\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+H:\1\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+H:\1\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+G:\1\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+G:\1\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+G:\1\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+G:\1\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+G:\1\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+G:\1\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\vladm\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\vladm\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\vladm\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
